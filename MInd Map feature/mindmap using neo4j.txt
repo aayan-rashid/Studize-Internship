@@ -1,0 +1,14 @@
+mindmap using neo4j:
+
+- cloud instance 1 inst. free
+- gpt 3.5 free
+- proper defn of entity and relationship
+- uses cipher programming for querying the db
+- interactive
+- create a sample mind map for a chapter 
+- include adequate knowledge base like some important theory 1-2 liners..eqn..exceptions....could possibly use readily available notes online  like pw, vedantu, unacad....
+- will have to individually create mind maps for all chapters
+- possibly store the nodes info in some database 
+- this could be referenced by other features like the roadmap to make it jee context aware
+- look for best possible export option keeping in mind to make it usable further in other new features
+- script 
