@@ -1,0 +1,101 @@
+chapterName,topics,unit,class,mainsWeightage,traits
+Matrices and Determinants,"Matrices: Algebra of matrices, types of matrices, and matrices of order two and three.
+Determinants: Properties of determinants, evaluation of determinants, the area of triangles using determinants.
+Adjoint and evaluation of inverse of a square matrix using determinants and elementary transformations.
+Test of consistency and solution of simultaneous linear equations in two or three variables using determinants and matrices.",Algebra,12,8,"Analytical Thinking
+Abstract Reasoning
+Problem-Solving Skills"
+Vector Algebra,"Vectors and scalars, the addition of vectors, components of a vector in two dimensions and three-dimensional space.
+Scalar products and vector products, and vector triple product.",3D Geometry and Vectors,12,8,"Visual-Spatial Skills
+Abstract Reasoning
+Mathematical Reasoning"
+Three Dimensional Geometry,"Coordinates of a point in space, the distance between two points.
+Section formula, direction ratios and direction cosines, the angle between two intersecting lines.
+Skew lines, the shortest distance between them and its equation.
+Equations of a line and a plane in different forms, the intersection of a line and a plane, coplanar lines.",Co-ordinate Geometry,11,8,"Visual-Spatial Skills
+Analytical Thinking
+Abstract Reasoning"
+Complex numbers and Quadratic Equation,"Complex numbers as ordered pairs of reals.
+Representation of complex numbers in the form (a+ib) and their representation in a plane, Argand diagram.
+Algebra of complex numbers, modulus and argument (or amplitude) of a complex number, square root of a complex number.
+Triangle inequality.
+Quadratic equations in real and complex number system and their solutions.
+The relation between roots and coefficients, nature of roots, the formation of quadratic equations with given roots.",Algebra,11,8,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+"Limits, Continuity and Differentiability","Real-valued functions, algebra of functions, polynomials, rational, trigonometric, logarithmic and exponential functions, inverse functions.
+Graphs of simple functions.
+Limits, continuity, and differentiability.
+Differentiation of the sum, difference, product, and quotient of two functions.
+Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit functions; derivatives of order up to two.
+Rolle’s and Lagrange’s mean value theorems.
+Applications of derivatives: Rate of change of quantities, monotonic increasing and decreasing functions, Maxima, and minima of functions of one variable, tangents, and normal.",Calculus,11,12,"Analytical Thinking
+Mathematical Reasoning
+Conceptual Understanding"
+Intgral Calculus,"Integral as an antiderivative.
+Fundamental integrals involving algebraic, trigonometric, exponential and logarithmic functions.
+Integration by substitution, by parts, and by partial fractions.
+Integration using trigonometric identities.
+Integral as limit of a sum.
+Evaluation of simple integrals. Fundamental theorem of calculus.
+Properties of definite integrals, evaluation of definite integrals, determining areas of the regions bounded by simple curves in standard form.",Calculus,12,12,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Coordinate Geometry,"Cartesian system of rectangular coordinates in a plane, distance formula, section formula, locus, and its equation, translation of axes, the slope of a line, parallel and perpendicular lines, intercepts of a line on the coordinate axes.
+Straight lines: Various forms of equations of a line, intersection of lines, angles between two lines, conditions for concurrence of three lines.
+Distance of a point from a line, equations of internal and external bisectors of angles between two lines, coordinates of the centroid, orthocentre, and circumcentre of a triangle, equation of the family of lines passing through the point of intersection of two lines.
+Circles, conic sections: Standard form of the equation of a circle, the general form of the equation of a circle, its radius and centre, equation of a circle when the endpoints of a diameter are given, points of intersection of a line and a circle with the centre at the origin and condition for a line to be tangent to a circle, equation of the tangent.
+Sections of conics, equations of conic sections (parabola, ellipse, and hyperbola) in standard forms, condition for y = mx + c to be a tangent and point (s) of tangency.",Co-ordinate Geometry,11,20,"Visual-Spatial Skills
+Analytical Thinking
+Mathematical Reasoning"
+Trigonometry,"Trigonometrical identities and equations.
+Trigonometrical functions, inverse trigonometrical functions, and their properties.
+Heights, and distance.",Trigonometry,11,4,"Visual-Spatial Skills
+Mathematical Reasoning
+Abstract Reasoning"
+Statistics and Probability,"Measures of Dispersion: Calculation of mean, median, mode of grouped and ungrouped data calculation of standard deviation, variance and mean deviation for grouped and ungrouped data.
+Probability: Probability of an event, addition and multiplication theorems of probability, Baye’s theorem, probability distribution of a random variate, Bernoulli trials, and binomial distribution.",Statistics and Probability,11,8,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+"Sets, Relation and Function","Sets and their representation.
+Union, intersection, and complement of sets and their algebraic properties.
+Powerset.
+Relation, types of relations, equivalence relations.
+Functions; one-one, into and onto functions, the composition of functions.",Algebra,11,4,"Analytical Thinking
+Conceptual Understanding
+Mathematical Reasoning"
+Sequences and Series,"Arithmetic and geometric progressions, insertion of arithmetic, geometric means between two given numbers.
+The relation between A.M. and G.M sum up to n terms of special series: Sn, Sn2, Sn3.
+Arithmetico-Geometric progression.",Algebra,11,4,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Binomial Theorem and its Application,"Binomial theorem for a positive integral index.
+General term and middle term.
+Properties of Binomial coefficients and simple applications.",Algebra,11,4,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Differential Equation,"Ordinary differential equations, their order, and degree.
+Formation of differential equations.
+The solution of differential equations by the method of separation of variables.
+The solution of a homogeneous and linear differential equation",Calculus,12,4,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Differential Calculus,"-Fundamentals and Functions
+2-Limit	
+3-Continuity and Differentiabilit
+4-Differentiation	
+5-Application and Derivatives	
+6-Tangents and Normals	
+7-Monotonicity
+8-Maxima Minima
+9-Graphical Transformation",Calculus,12,4,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Permutations and Combinations,"The fundamental principle of counting.
+Permutation as an arrangement and combination as a selection.
+The meaning of P (n,r) and C (n,r), simple applications.",Combinatorics,11,4,"Analytical Thinking
+Problem-Solving Skills
+Mathematical Reasoning"
+Mathematical Reasoning,"Statements and logical operations: or, and, implies, implied by, if and only if, understanding of tautology, contradiction, converse, and contrapositive.",Mathematical Reasoning,12,4,"Analytical Thinking
+Logical Reasoning
+Abstract Reasoning"
