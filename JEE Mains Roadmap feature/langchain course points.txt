@@ -1,0 +1,12 @@
+- open ai on azure for business
+
+- chain of thought prompting for soca into roadmap?
+based on the student's strength, weakness we could possibly do some few shot prompting or even cot prompting to better build a roadmap and focus on areas where he needs more time and work? classify the chapters based on the cognitive skills requirements?
+but this increases the tokens sent...so cost increases
+a solution...agents?
+
+- sequential chain to implement agents easier and can introduce dynamicity? but very slow
+
+- callbacks to handle edge cases, chains, tokens, models, errors and agents deployment?
+langchain provides some built-in methods for that
+

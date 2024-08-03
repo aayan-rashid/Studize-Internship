@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "trip-planner-crew"
+version = "0.1.0"
+description = "Roadmap_local_test"
+authors = ["Ayaan", "Studize"]
+
+[tool.poetry.dependencies]
+python = "==3.11.9"
+crewai = "^0.11.0"
+unstructured = '==0.10.25'
+pyowm = '3.3.0'
+tools = "^0.1.9"
+python-dotenv = "1.0.1"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.3"
+duckduckgo-search = "^4.4.2"
+
+[tool.pyright]
+# https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+useLibraryCodeForTypes = true
+exclude = [".cache"]
+
+[tool.ruff]
+# https://beta.ruff.rs/docs/configuration/
+select = ['E', 'W', 'F', 'I', 'B', 'C4', 'ARG', 'SIM']
+ignore = ['W291', 'W292', 'W293']
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
